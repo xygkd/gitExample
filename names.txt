@@ -1,2 +1,3 @@
-boss,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
+boss,xiao248,Xiao,Yangfan
 employee,kerbywhite,Kerby-White,Jonathan
